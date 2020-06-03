@@ -1,6 +1,6 @@
 # Random Numbers Testing Module2
 
-This is created as a part of masters thesis, working jointly at DRDO, IIIT Delhi and University of Delhi. This module is by-product of [Random Numbers Testing Module](https://github.com/MayankKharbanda/random_number_testing_module), which is better for testing random files rather than source. Parts of code are from [Randomness Statistics Batteries](https://github.com/crocs-muni/rtt-statistical-batteries).
+This is created as a part of masters thesis, working jointly at DRDO, IIIT Delhi and University of Delhi. This module is by-product of [Random Numbers Testing Module](https://github.com/MayankKharbanda/random_number_testing_module), which is used for testing random files, rather than [source testing](https://github.com/MayankKharbanda/random_number_testing_module). Parts of code are from [Randomness Statistics Batteries](https://github.com/crocs-muni/rtt-statistical-batteries).
 
 
 ## Installation
